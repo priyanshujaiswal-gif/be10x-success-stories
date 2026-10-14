@@ -1,0 +1,10 @@
+{
+  "xlsx": "/Users/not.nisha/Downloads/be10x-success-stories/uploads/Testimonial_YT_Audit_google.xlsx",
+  "anchorsFound": 259,
+  "photosExtracted": 259,
+  "recordsWithoutPhoto": 131,
+  "unmappedAnchors": [],
+  "matchedByNameFallback": 0,
+  "skippedWrongColumn": [],
+  "outputDir": "/Users/not.nisha/Downloads/be10x-success-stories/data/uploads/learners"
+}

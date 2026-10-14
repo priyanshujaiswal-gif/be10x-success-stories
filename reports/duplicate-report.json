@@ -1,0 +1,181 @@
+{
+  "summary": {
+    "workbook": "/Users/not.nisha/Downloads/be10x-success-stories/uploads/Testimonial_YT_Audit_google.xlsx",
+    "sheets": {
+      "Vishesh": 113,
+      "Saurabh": 145,
+      "Vivek": 132
+    },
+    "totalSourceRows": 390,
+    "uniqueRecords": 390,
+    "publishedCount": 389,
+    "draftCount": 1,
+    "featuredCount": 6,
+    "duplicateGroupCount": 17,
+    "photoImport": {
+      "xlsx": "/Users/not.nisha/Downloads/be10x-success-stories/uploads/Testimonial_YT_Audit_google.xlsx",
+      "anchorsFound": 259,
+      "photosExtracted": 259,
+      "recordsWithoutPhoto": 131,
+      "unmappedAnchors": [],
+      "matchedByNameFallback": 0,
+      "skippedWrongColumn": [],
+      "outputDir": "/Users/not.nisha/Downloads/be10x-success-stories/data/uploads/learners"
+    }
+  },
+  "duplicateGroups": [
+    {
+      "type": "email",
+      "key": "pkushalr@gmail.com",
+      "recordIds": [
+        "kushal-r-parikh-vishesh-88",
+        "kushal-r-parikh-saurabh-24"
+      ],
+      "count": 2
+    },
+    {
+      "type": "email",
+      "key": "santosh.pampatwar@gmail.com",
+      "recordIds": [
+        "santosh-pampatwar-saurabh-26",
+        "santosh-pampatwar-vivek-120"
+      ],
+      "count": 2
+    },
+    {
+      "type": "email",
+      "key": "amit.vish.av@gmail.com",
+      "recordIds": [
+        "amit-kumar-vishwakarma-saurabh-28",
+        "amit-kumar-vishwakarma-saurabh-31"
+      ],
+      "count": 2
+    },
+    {
+      "type": "email",
+      "key": "amanbnsl97@gmail.com",
+      "recordIds": [
+        "aman-bansal-saurabh-117",
+        "aman-bansal-saurabh-119"
+      ],
+      "count": 2
+    },
+    {
+      "type": "linkedin",
+      "key": "https://www.linkedin.com/in/kushal-parikh-5a067b74",
+      "recordIds": [
+        "kushal-r-parikh-vishesh-88",
+        "kushal-r-parikh-saurabh-24"
+      ],
+      "count": 2
+    },
+    {
+      "type": "linkedin",
+      "key": "https://www.linkedin.com/in/santoshpampatwar",
+      "recordIds": [
+        "santosh-pampatwar-saurabh-26",
+        "santosh-pampatwar-vivek-120"
+      ],
+      "count": 2
+    },
+    {
+      "type": "linkedin",
+      "key": "https://www.linkedin.com/in/amit-vishwakarma-4276b518",
+      "recordIds": [
+        "amit-kumar-vishwakarma-saurabh-28",
+        "amit-kumar-vishwakarma-saurabh-31"
+      ],
+      "count": 2
+    },
+    {
+      "type": "linkedin",
+      "key": "https://www.linkedin.com/in/amanbansal001",
+      "recordIds": [
+        "aman-bansal-saurabh-117",
+        "aman-bansal-saurabh-119"
+      ],
+      "count": 2
+    },
+    {
+      "type": "linkedin",
+      "key": "https://www.linkedin.com/in/akhil-vavilala-3861b5252",
+      "recordIds": [
+        "akhil-vivek-130",
+        "sanjib-vivek-131"
+      ],
+      "count": 2
+    },
+    {
+      "type": "name",
+      "key": "keshav",
+      "recordIds": [
+        "keshav-vishesh-33",
+        "keshav-vishesh-51"
+      ],
+      "count": 2
+    },
+    {
+      "type": "name",
+      "key": "kushal r parikh",
+      "recordIds": [
+        "kushal-r-parikh-vishesh-88",
+        "kushal-r-parikh-saurabh-24"
+      ],
+      "count": 2
+    },
+    {
+      "type": "name",
+      "key": "santosh pampatwar",
+      "recordIds": [
+        "santosh-pampatwar-saurabh-26",
+        "santosh-pampatwar-vivek-120"
+      ],
+      "count": 2
+    },
+    {
+      "type": "name",
+      "key": "amit kumar vishwakarma",
+      "recordIds": [
+        "amit-kumar-vishwakarma-saurabh-28",
+        "amit-kumar-vishwakarma-saurabh-31"
+      ],
+      "count": 2
+    },
+    {
+      "type": "name",
+      "key": "rajesh",
+      "recordIds": [
+        "rajesh-saurabh-81",
+        "rajesh-saurabh-136"
+      ],
+      "count": 2
+    },
+    {
+      "type": "name",
+      "key": "aman bansal",
+      "recordIds": [
+        "aman-bansal-saurabh-117",
+        "aman-bansal-saurabh-119"
+      ],
+      "count": 2
+    },
+    {
+      "type": "name",
+      "key": "rahul",
+      "recordIds": [
+        "rahul-vivek-25",
+        "rahul-vivek-93"
+      ],
+      "count": 2
+    },
+    {
+      "type": "name",
+      "key": "sandeep",
+      "recordIds": [
+        "sandeep-vivek-33",
+        "sandeep-vivek-59"
+      ],
+      "count": 2
+    }
+  ]
+}

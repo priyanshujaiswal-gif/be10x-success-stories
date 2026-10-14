@@ -1,0 +1,24 @@
+{
+  "workbook": "/Users/not.nisha/Downloads/be10x-success-stories/uploads/Testimonial_YT_Audit_google.xlsx",
+  "sheets": {
+    "Vishesh": 113,
+    "Saurabh": 145,
+    "Vivek": 132
+  },
+  "totalSourceRows": 390,
+  "uniqueRecords": 390,
+  "publishedCount": 389,
+  "draftCount": 1,
+  "featuredCount": 6,
+  "duplicateGroupCount": 17,
+  "photoImport": {
+    "xlsx": "/Users/not.nisha/Downloads/be10x-success-stories/uploads/Testimonial_YT_Audit_google.xlsx",
+    "anchorsFound": 259,
+    "photosExtracted": 259,
+    "recordsWithoutPhoto": 131,
+    "unmappedAnchors": [],
+    "matchedByNameFallback": 0,
+    "skippedWrongColumn": [],
+    "outputDir": "/Users/not.nisha/Downloads/be10x-success-stories/data/uploads/learners"
+  }
+}

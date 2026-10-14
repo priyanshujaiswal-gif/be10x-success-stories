@@ -1,0 +1,10 @@
+{
+  "name": "be10X Success Stories",
+  "user": "ubuntu",
+  "install": "bash .cursor/cloud-agent-install.sh",
+  "start": "bash .cursor/start.sh",
+  "ports": [
+    { "name": "Vite", "port": 4317 },
+    { "name": "API", "port": 4318 }
+  ]
+}
